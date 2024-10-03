@@ -21,6 +21,6 @@ Neural Style Transfer works by:
 
 ---
 
-![img1](https://github.com/SwamySaxena/nst-streamlit/blob/main/Black Desert Online Wallpaper 59.jpg)
+![img1](https://github.com/SwamySaxena/nst-streamlit/blob/main/content_img.jpg)
 ![img2](https://github.com/SwamySaxena/nst-streamlit/blob/main/Mountain.jpg)
 ![img3](https://github.com/SwamySaxena/nst-streamlit/blob/main/output.jg.jpg)
